@@ -48,4 +48,4 @@
 . HTML/CSS/Javascript for UI
 <br>
 
-### The model is an ensemble model including XGBoost,RandomForest,LGBM and Logistic Regression , trained on over 900 images!
+### The model used is an ensemble model including XGBoost,RandomForest,LGBM and Logistic Regression , trained on over 900 images!
