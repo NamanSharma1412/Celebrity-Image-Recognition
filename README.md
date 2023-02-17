@@ -14,20 +14,20 @@
 . Rohit Sharma
 
 . Mahendra Singh Dhoni
-<br>
+
 
 ### Here is the folder structure
 
 1) UI : This contains ui website code
 
-2) server: Python flask server
+2) model: Contains python notebook for model building
 
-3) model: Contains python notebook for model building
+3) model_dataset: Dataset used for our model training
 
-4) google_image_scrapping: code to scrap google for images
+4) server: Python flask server
 
-5) images_dataset: Dataset used for our model training
-<br>
+4) google_images_webscraper: code to scrap google for images
+
 
 ### Technologies used in this project,
 
@@ -46,5 +46,6 @@
 . Python flask for http server
 
 . HTML/CSS/Javascript for UI
+<br>
 
-#### The model is an ensemble model including XGBoost,RandomForest,LGBM and Logistic Regression , trained on over 900 images!
+### The model is an ensemble model including XGBoost,RandomForest,LGBM and Logistic Regression , trained on over 900 images!
